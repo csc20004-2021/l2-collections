@@ -8,12 +8,12 @@
   <parent>
       <groupId>uk.ac.keele.csc20004</groupId>
       <artifactId>collections</artifactId>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0</version>
   </parent>
 
   <groupId>uk.ac.keele.csc20004</groupId>
   <artifactId>hashcodeequals</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
   <name>hashcodeequals</name>
 </project>

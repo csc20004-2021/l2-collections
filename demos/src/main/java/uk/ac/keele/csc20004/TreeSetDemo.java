@@ -64,12 +64,13 @@ public class TreeSetDemo {
         tree_set.add("farewell"); 
         tree_set.add("ciao"); 
         tree_set.add("bye"); 
-        System.out.println("Set before using the comparator: "+ 
+        System.out.println("Set before using the comparator: " + 
         tree_set); 
    
-        System.out.println("The elements sorted in descending"+ 
-        "order:"); 
+        System.out.println("The elements sorted in descending order:"); 
         for (String element : tree_set) 
             System.out.print(element + " "); 
+        System.out.println();
+
     } 
 } 

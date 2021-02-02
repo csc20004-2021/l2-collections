@@ -13,14 +13,14 @@ import java.util.Iterator;
  *  Using the Collection interface
  *
  */
-public class CollectionTest {
+public class CollectionDemo {
     private static final String[] colors =
         { "MAGENTA", "RED", "WHITE", "BLUE", "CYAN" };
     private static final String[] removeColors =
         { "RED", "WHITE", "BLUE" };
 
     // create ArrayList, add colors to it and manipulate it
-    public CollectionTest() {
+    public CollectionDemo() {
         List< String > list = new ArrayList<>();
         List< String > removeList = new ArrayList<>();
 
@@ -64,6 +64,6 @@ public class CollectionTest {
     } // end method removeColors
 
     public static void main( String args[] ) {
-        new CollectionTest();
+        new CollectionDemo();
     } // end main
 } // end class CollectionTest

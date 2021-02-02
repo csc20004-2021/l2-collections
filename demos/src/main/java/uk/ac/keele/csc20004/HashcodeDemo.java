@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 
  */
-public class HashcodeEquals {
+public class HashcodeDemo {
     public static void main(String[] args) {
         // Let's create two Student1's and check their hashcodes
         Student1 alex1 = new Student1(1, "Alex");
@@ -53,7 +53,5 @@ public class HashcodeEquals {
         studentSet2.add(tom2);
         System.out.println("HashSet size = " + studentSet2.size());
         System.out.println("HashSet contains Tom = " + studentSet2.contains(new Student3(55, "Tom")));
-
-        
     }
 }

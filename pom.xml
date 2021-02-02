@@ -20,7 +20,7 @@
     </properties>
 
     <modules>
-        <module>hashcodeequals</module>
+        <module>demos</module>
     </modules>
 
     <build>

@@ -12,8 +12,8 @@
   </parent>
 
   <groupId>uk.ac.keele.csc20004</groupId>
-  <artifactId>hashcodeequals</artifactId>
+  <artifactId>demos</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
-  <name>hashcodeequals</name>
+  <name>demos</name>
 </project>

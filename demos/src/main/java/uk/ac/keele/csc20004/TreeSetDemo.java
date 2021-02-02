@@ -54,6 +54,8 @@ public class TreeSetDemo {
     { 
         // Declare a set, as a TreeSet, providing the object implementing
         // the comparator ()
+        // You can experiment with the other provided Comparator (MyComparator2)
+        // or by implementing your own
         TreeSet<String> tree_set = new TreeSet<String>(new MyComparator1()); 
    
         tree_set.add("hello"); 

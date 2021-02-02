@@ -9,7 +9,10 @@ import java.util.HashSet;
 import java.util.List;
 
 /**
- *
+ * Sample code to show the effects of overriding equals() and hashcode() methods 
+ * when using Java Collections.
+ * 
+ * @author Marco Ortolani
  */
 public class HashcodeDemo {
     public static void main(String[] args) {
